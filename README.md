@@ -1,10 +1,10 @@
 # HeySalad® Food Recognition System with Kelly AI
 
-<img src="https://raw.githubusercontent.com/Hey-Salad/.github/refs/heads/main/HeySalad%20Logo%20%2B%20Tagline%20Black.svg" alt="HeySalad Logo" width="400"/>
+<img src="https://github.com/Hey-Salad/Imperial-College-AI-Hackathon/raw/main/HSK-SPEEDY.png" alt="HeySalad Speedy" width="300"/>
 
 ## About
 
-HeySalad® is a smart food recognition device developed during the Imperial College AI Hackathon. The system combines an ESP32-S3 camera with a GC9A01 round display and AI-powered food recognition through our agent named Kelly. Special thanks to Ming and Mahe from Imperial College for their support and contributions to this project.
+HeySalad® is a smart food recognition device developed during the Imperial College AI Hackathon. The system combines an ESP32-S3 camera module with a GC9A01 round display and uses a Silicon Labs MG24 microcontroller for BLE connectivity and sensor processing. Our AI-powered food recognition agent named Kelly provides intelligent food analysis. Special thanks to Ming and Mahe from Imperial College for their support and contributions to this project.
 
 [Watch the behind-the-scenes video](https://www.youtube.com/watch?v=4rCXqwr4klM)
 
@@ -13,6 +13,7 @@ HeySalad® is a smart food recognition device developed during the Imperial Coll
 - **Kelly AI Agent**: Intelligent food recognition with nutritional information
 - **Live Camera Streaming**: Real-time video feed to web browsers via WebSockets
 - **GC9A01 Round Display**: Displays captured images and food information locally
+- **Dual Microcontroller Design**: ESP32-S3 for WiFi/camera and MG24 for BLE/sensors
 - **Interactive UI**: Control streaming and camera functions through a web interface
 - **Multiple WiFi Support**: Connects to various networks for reliable operation
 - **Energy Management**: Start/stop controls to manage power consumption and CPU temperature
